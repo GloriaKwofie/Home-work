@@ -1,0 +1,6 @@
+1. How do you see the files changed within each commit from git log?
+Answer: We can use the "git log --oneline" to get a summary of what changes have been made.
+2. How do you see the contents of what changed within each file from the git log?
+Answer: With "git stat" we can see the changes in the files of each commit.
+3. What does HEAD refer to in the context of git? (Not to be confused with the "HEAD<<<<" one observes within merge conflict)
+Answer: In git, HEAD refers to the current commit you are viewing. That is  the last commit you made
